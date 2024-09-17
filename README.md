@@ -7,6 +7,5 @@ I utilized a nested Linked List of Liked Lists, one for every distinct city give
 <img width="357" alt="image" src="https://github.com/user-attachments/assets/f53e74cd-633a-4e1b-a387-3a9c74778dab">
 
 ## How to build and run:
-Runs best using the Google Colab Link at the top of the python file, but by installing the necessary packages and libraries mentioned above before compiling and running.
-<br /> The final version runs from the command line with the following:
+<br /> The final version can run from the command line with the following:
 <br /> ./FlightPlan <FlightDataFile> <PathsToCalculateFile> <OutputFile>
