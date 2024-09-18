@@ -8,4 +8,4 @@ I utilized a nested Linked List of Liked Lists, one for every distinct city give
 
 ## How to build and run:
 <br /> The final version can run from the command line with the following:
-<br /> "./FlightPlan <FlightDataFile> <PathsToCalculateFile> <OutputFile>"
+<br /> ./FlightPlan FlightDataFile PathsToCalculateFile OutputFile
